@@ -1,0 +1,37 @@
+[
+  {
+    "id": "PROD_1732474557256_447",
+    "product_title": "Sharee101",
+    "product_price": "1000",
+    "product_description": "CremeCoffeeColor",
+    "image_path": "uploads/product-1732474557252.jpg"
+  },
+  {
+    "id": "PROD_1732474654982_361",
+    "product_title": "Sharee102",
+    "product_price": "1200",
+    "product_description": "Yellow Color Rajshahi silks",
+    "image_path": "uploads/product-1732474654981.jpg"
+  },
+  {
+    "id": "PROD_1732474705123_256",
+    "product_title": "Sharee103",
+    "product_price": "1500",
+    "product_description": "Sky-Blue Jamdani",
+    "image_path": "uploads/product-1732474705112.jpg"
+  },
+  {
+    "id": "PROD_1732474769596_345",
+    "product_title": "Sharee104",
+    "product_price": "1500",
+    "product_description": "Red-Pink",
+    "image_path": "uploads/product-1732474769595.jpg"
+  },
+  {
+    "id": "PROD_1732721595150_378",
+    "product_title": "sharee6",
+    "product_price": "1000",
+    "product_description": "sadfdsd",
+    "image_path": "uploads/product-1732721595146.jpg"
+  }
+]
