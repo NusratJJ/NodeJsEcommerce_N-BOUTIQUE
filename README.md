@@ -63,3 +63,14 @@
 <p style="font-size:16px;">
   For inquiries, reach out to <strong>N J Jisa</strong> at <a href="mailto:njjisa499@gmail.com" style="color:#4CAF50;">njjisa499@gmail.com</a>.
 </p>
+
+
+
+
+
+<img width="956" alt="Screenshot1" src="https://github.com/user-attachments/assets/54e63ee6-9070-4a22-9267-389c79b40bb9" />
+<img width="948" alt="Screenshot 2" src="https://github.com/user-attachments/assets/7921cd33-eb73-497f-9d18-5e395bf745f8" />
+<img width="946" alt="Screenshot 3" src="https://github.com/user-attachments/assets/f3bbd6dd-6da3-4a85-8d51-d715c3a63f95" />
+<img width="955" alt="Screenshot 4" src="https://github.com/user-attachments/assets/deb35cc1-971c-4424-a39e-bb7dd91b9383" />
+<img width="955" alt="Screenshot 5" src="https://github.com/user-attachments/assets/c6550e58-d5cd-4276-9867-c39662186acc" />
+
